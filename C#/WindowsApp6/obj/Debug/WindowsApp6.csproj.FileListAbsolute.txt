@@ -1,0 +1,13 @@
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\bin\Debug\BATMAN.exe.config
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\bin\Debug\BATMAN.xml
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\bin\Debug\BATMAN.exe
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\bin\Debug\BATMAN.pdb
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.csproj.AssemblyReference.cache
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.Form1.resources
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.Form2.resources
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.Resources.resources
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.csproj.GenerateResource.cache
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.csproj.CoreCompileInputs.cache
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\WindowsApp6.csproj.CopyComplete
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\BATMAN.exe
+D:\ALL\ادوات وبرامج المتخطيين\target hhhhh\Downloads\BATMAN UN gameloop\WindowsApp6\obj\Debug\BATMAN.pdb

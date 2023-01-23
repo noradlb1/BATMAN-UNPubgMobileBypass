@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BATMAN</name>
+    </assembly>
+    <members>
+        <member name="T:WindowsApp6.My.Resources.Resources">
+            <summary>
+            A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.ResourceManager">
+            <summary>
+            Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.Culture">
+            <summary>
+            Overrides the current thread's CurrentUICulture property for all
+            resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources._4981_2">
+            <summary>
+            Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.adb">
+            <summary>
+            Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.AdbWinApi">
+            <summary>
+            Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.Batman_Wallpapers_For_Phone_008">
+            <summary>
+            Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.ProgramFiles">
+            <summary>
+            Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.Windows32">
+            <summary>
+            Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:WindowsApp6.My.Resources.Resources.xtreme">
+            <summary>
+            Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+    </members>
+</doc>
